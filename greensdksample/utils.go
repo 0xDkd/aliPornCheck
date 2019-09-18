@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"src/uuid"
+	"github.com/aimerforreimu/aliPornCheck/uuid"
 )
 
 const host string = "http://green.cn-shanghai.aliyuncs.com"
